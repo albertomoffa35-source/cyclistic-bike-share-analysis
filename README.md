@@ -178,10 +178,9 @@ The complete case study can be found here:
 
 ## 📁 Project Structure
 cyclistic-bike-share-analysis
-│
-├── Cyclistic_Project_Report.pdf
-├── dashboard.png
-└── README.md
+Cyclistic_Project_Report.pdf
+dashboard.png
+README.md
 
 
 ---

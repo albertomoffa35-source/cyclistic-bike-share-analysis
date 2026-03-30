@@ -172,15 +172,15 @@ Future work could integrate additional contextual data to enhance predictive ins
 
 The complete case study can be found here:
 
-👉 **Cyclistic_Project_Report.pdf**
+👉 **Project_report.pdf**
 
 ---
 
 ## 📁 Project Structure
 cyclistic-bike-share-analysis
-Cyclistic_Project_Report.pdf
-dashboard.png
-README.md
+->Cyclistic_Project_Report.pdf
+->dashboard.png
+->README.md
 
 
 ---

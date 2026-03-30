@@ -120,7 +120,7 @@ Based on the analysis:
 
 The complete analytical report can be found here:
 
-👉 **Project_Report.pdf**
+👉 **Project_report.pdf**
 
 ---
 
